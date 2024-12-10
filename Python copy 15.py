@@ -32,7 +32,7 @@ paddle_b.goto(350, 0)
 # Boll
 ball = turtle.Turtle()
 ball.speed(40)
-ball.shape("square")
+ball.shape("circle")
 ball.color("white")
 ball.penup()
 ball.goto(0, 0)
